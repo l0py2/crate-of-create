@@ -1,0 +1,13 @@
+name = "Crate of Create"
+author = "l0py2"
+version = "0.0.1"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "114a1ba47a3e227818f97b1fb4bc2cdc6c6b0f56690d07a6e4d2536488bcb54c"
+
+[versions]
+fabric = "0.14.22"
+minecraft = "1.19.2"
